@@ -1,0 +1,39 @@
+body{
+    background-image: url(../image/fate-grand-order-genesis-2nks7era2soryk95.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.box{
+    background-color: rgba(188, 219, 248, 0.623);
+}
+.margin{
+    margin-top: 25px;
+}
+.navbar-light .navbar-brand {
+    color: rgba(81, 144, 180, 0.9);
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(40, 131, 136, 0.9);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(37, 88, 165, 0.774);
+}
+.active{
+    background-color: rgb(58, 58, 102);
+}
+.sushime ul{
+    list-style: none;
+    padding-left: 0%;
+}
+.sushime ul li{
+    display: inline-block;
+    font-size: 35px;
+}
+.sushime ul li a{
+    color: rgb(143, 223, 255);
+}
+.sushime ul li a:hover{
+    color: rgb(0, 162, 255);
+}
